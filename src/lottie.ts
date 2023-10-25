@@ -1,5 +1,3 @@
-import '@dotlottie/player-component';
-
 import type { DotLottiePlayer } from '@dotlottie/player-component';
 
 window.Webflow = window.Webflow || [];
