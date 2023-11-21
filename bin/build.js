@@ -17,6 +17,7 @@ const ENTRY_POINTS = [
   'src/videojs.ts',
   'src/resources.ts',
   'src/lottie.ts',
+  'src/trustCenter.ts',
 ];
 
 // Config dev serving
