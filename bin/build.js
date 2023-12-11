@@ -18,6 +18,7 @@ const ENTRY_POINTS = [
   'src/resources.ts',
   'src/lottie.ts',
   'src/trustCenter.ts',
+  'src/noticeBar.ts',
 ];
 
 // Config dev serving
